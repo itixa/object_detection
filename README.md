@@ -61,6 +61,8 @@ drive.mount('/content/drive')
 
 ```
 
+<img width="601" alt="Screenshot 2024-04-16 at 3 22 01 PM" src="https://github.com/itixa/object_detection/assets/102657153/b5479364-48d7-4770-8780-d9718a11de41">
+
 ## Note: 
 #### Adjust the paths, model names, configuration files, and other parameters as necessary for your specific project setup and requirements. Ensure that the necessary files and directories are correctly configured and accessible within your Google Drive.
 
