@@ -1,4 +1,4 @@
-# object_detection
+# object detection using AI
 
 ## Project Overview:
 ### This project focuses on performing object detection using AI techniques. The goal is to detect and localize objects within images and videos using the YOLO (You Only Look Once) algorithm. The project utilizes Google Colab for its computational resources and leverages the Ultralytics library for implementing the YOLO algorithm.
